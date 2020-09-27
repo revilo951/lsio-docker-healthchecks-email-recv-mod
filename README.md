@@ -1,4 +1,4 @@
-# lsio-docker-healthchecks-email-recv-mod
+# lsio docker healthchecks email recv mod
 Mod to enable the smtpd email monitor in the [linuxserver.io healthchecks container](https://hub.docker.com/r/linuxserver/healthchecks)
 
 You need to start the container first without this mod, so that the config files you need to modify are generated.
